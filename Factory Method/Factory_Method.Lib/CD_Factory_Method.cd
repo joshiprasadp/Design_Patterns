@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Factory_Method.Lib.AudiCarFactory">
+    <Position X="1.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>AudiCarFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Factory_Method.Lib.Car" Collapsed="true">
+    <Position X="6" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Factory_Method.Lib.FamilyCar" Collapsed="true">
+    <Position X="5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FamilyCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Factory_Method.Lib.SportsCar" Collapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SportsCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Factory_Method.Lib.FamilyCarFactory">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>FamilyCarFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Factory_Method.Lib.SportCarFactory">
+    <Position X="3" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>SportCarFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Carsales is client. CarSales uses interface defined by CarFactory to Create Family or Sports Car.">
+    <Position X="12.089" Y="1.215" Height="1.279" Width="1.976" />
+  </Comment>
+  <Class Name="Abstract_Factory.CarFactory">
+    <Position X="1.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CarFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Abstract_Factory.FamilyCar">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FamilyCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Abstract_Factory.SportsCar">
+    <Position X="10" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SportsCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Abstract_Factory.MercedesFactory">
+    <Position X="0.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MercedesFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Abstract_Factory.MercedesFamilyCar" Collapsed="true">
+    <Position X="4.75" Y="6.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MercedesFamilyCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Abstract_Factory.MercedesSportsCar" Collapsed="true">
+    <Position X="8.75" Y="6.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MercedesSportsCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Abstract_Factory.AudiFactory">
+    <Position X="2.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AudiFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Abstract_Factory.AudiFamilyCar" Collapsed="true">
+    <Position X="7" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AudiFamilyCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Abstract_Factory.AudiSportsCar" Collapsed="true">
+    <Position X="11" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AudiSportsCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Abstract_Factory.Main.CarSales">
+    <Position X="8.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAQAAAAAAAAAAAAAAAAAIAAAAECABAAAAAAAA=</HashCode>
+      <FileName>CarSales.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
